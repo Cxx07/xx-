@@ -1,0 +1,245 @@
+[
+  {
+    "name": "校长办公室",
+    "department": "党政管理机构",
+    "category": "行政办公",
+    "phone": ["0371-61912666", "0371-61912668"],
+    "address": "龙子湖校区办公楼A座5楼",
+    "email": "xiaoban@zua.edu.cn",
+    "description": "负责学校行政事务综合协调、公文处理、会议组织等工作"
+  },
+  {
+    "name": "党委办公室",
+    "department": "党政管理机构",
+    "category": "行政办公",
+    "phone": ["0371-61912555"],
+    "address": "龙子湖校区办公楼A座5楼",
+    "email": "dangban@zua.edu.cn",
+    "description": "负责党委日常事务、综合协调、公文处理等工作"
+  },
+  {
+    "name": "教务处",
+    "department": "教学管理机构",
+    "category": "教学服务",
+    "phone": ["0371-61912588", "0371-61912589"],
+    "address": "龙子湖校区办公楼B座3楼",
+    "email": "jwc@zua.edu.cn",
+    "description": "负责教学计划制定、课程安排、考试管理、成绩管理等教学相关事务"
+  },
+  {
+    "name": "招生就业处（招生办公室）",
+    "department": "招生就业",
+    "category": "招生就业",
+    "phone": ["0371-61912556", "0371-61912557", "0371-61912558"],
+    "address": "龙子湖校区办公楼B座1楼",
+    "email": "zsb@zua.edu.cn",
+    "description": "负责全日制本专科招生、就业指导、校园招聘会等工作"
+  },
+  {
+    "name": "学生工作部（处）",
+    "department": "学生工作",
+    "category": "学生服务",
+    "phone": ["0371-61912566", "0371-61912568"],
+    "address": "龙子湖校区学生活动中心3楼",
+    "email": "xsc@zua.edu.cn",
+    "description": "负责学生思想政治教育、日常管理、奖助学金、心理健康教育等"
+  },
+  {
+    "name": "人事处",
+    "department": "人事管理",
+    "category": "人事师资",
+    "phone": ["0371-61912668", "0371-61912669"],
+    "address": "龙子湖校区办公楼A座4楼",
+    "email": "rsc@zua.edu.cn",
+    "description": "负责师资队伍建设、人事管理、职称评审、薪酬福利等"
+  },
+  {
+    "name": "财务处",
+    "department": "财务管理",
+    "category": "财务服务",
+    "phone": ["0371-61912688", "0371-61912689"],
+    "address": "龙子湖校区办公楼B座2楼",
+    "email": "cwc@zua.edu.cn",
+    "description": "负责学校财务管理、预算编制、会计核算、收费管理、报销等"
+  },
+  {
+    "name": "后勤管理处",
+    "department": "后勤保障",
+    "category": "后勤服务",
+    "phone": ["0371-61912788", "0371-61912789"],
+    "address": "龙子湖校区后勤服务楼",
+    "email": "houqin@zua.edu.cn",
+    "description": "负责校园物业管理、食堂管理、宿舍管理、水电保障、维修服务等"
+  },
+  {
+    "name": "保卫处",
+    "department": "安全保卫",
+    "category": "后勤服务",
+    "phone": ["0371-61912110", "0371-61912119"],
+    "address": "龙子湖校区东门保卫处办公楼",
+    "email": "bwc@zua.edu.cn",
+    "description": "负责校园治安、消防安全、交通管理、户籍管理等"
+  },
+  {
+    "name": "图书馆",
+    "department": "图书资料",
+    "category": "教学服务",
+    "phone": ["0371-61912888", "0371-61912889"],
+    "address": "龙子湖校区图书馆大楼",
+    "email": "lib@zua.edu.cn",
+    "description": "负责图书借阅、电子资源、参考咨询、阅读推广等服务"
+  },
+  {
+    "name": "校医院",
+    "department": "医疗卫生",
+    "category": "后勤服务",
+    "phone": ["0371-61912120", "0371-61912121"],
+    "address": "龙子湖校区生活区",
+    "email": "hospital@zua.edu.cn",
+    "description": "提供常见病诊疗、健康体检、疫苗接种、健康教育等医疗服务"
+  },
+  {
+    "name": "信息化管理中心",
+    "department": "信息技术",
+    "category": "网络服务",
+    "phone": ["0371-61912345", "0371-61912346"],
+    "address": "龙子湖校区图书馆楼5楼",
+    "email": "nic@zua.edu.cn",
+    "description": "负责校园网络、信息化系统、数字化校园建设、网络安全等"
+  },
+  {
+    "name": "研究生院",
+    "department": "研究生教育",
+    "category": "教学服务",
+    "phone": ["0371-61912598", "0371-61912599"],
+    "address": "龙子湖校区办公楼B座4楼",
+    "email": "yjsy@zua.edu.cn",
+    "description": "负责研究生招生、培养、学位授予、导师管理等工作"
+  },
+  {
+    "name": "国际交流与合作处",
+    "department": "国际交流",
+    "category": "外事服务",
+    "phone": ["0371-61912698", "0371-61912699"],
+    "address": "龙子湖校区办公楼A座3楼",
+    "email": "gjc@zua.edu.cn",
+    "description": "负责中外合作办学、留学生管理、出国访学、国际会议等"
+  },
+  {
+    "name": "航空工程学院",
+    "department": "教学院部",
+    "category": "学院系所",
+    "phone": ["0371-61912701", "0371-61912702"],
+    "address": "龙子湖校区01教学楼",
+    "email": "hkxy@zua.edu.cn",
+    "description": "航空工程相关专业教学与研究，包括飞行器设计、航空维修等"
+  },
+  {
+    "name": "民航学院",
+    "department": "教学院部",
+    "category": "学院系所",
+    "phone": ["0371-61912706", "0371-61912708"],
+    "address": "龙子湖校区02教学楼",
+    "email": "mhxy@zua.edu.cn",
+    "description": "民航服务相关专业，包括空中乘务、民航运输、机场运行等"
+  },
+  {
+    "name": "管理工程学院",
+    "department": "教学院部",
+    "category": "学院系所",
+    "phone": ["0371-61912711", "0371-61912712"],
+    "address": "龙子湖校区03教学楼",
+    "email": "ggxy@zua.edu.cn",
+    "description": "工业工程、物流管理、质量管理等管理类专业"
+  },
+  {
+    "name": "会计学院",
+    "department": "教学院部",
+    "category": "学院系所",
+    "phone": ["0371-61912721", "0371-61912722"],
+    "address": "龙子湖校区05教学楼",
+    "email": "kjxy@zua.edu.cn",
+    "description": "会计学、财务管理、审计学等财经类专业"
+  },
+  {
+    "name": "经贸学院",
+    "department": "教学院部",
+    "category": "学院系所",
+    "phone": ["0371-61912731", "0371-61912732"],
+    "address": "龙子湖校区06教学楼",
+    "email": "jmxy@zua.edu.cn",
+    "description": "经济学、国际经济与贸易、金融学等经济类专业"
+  },
+  {
+    "name": "信息管理学院",
+    "department": "教学院部",
+    "category": "学院系所",
+    "phone": ["0371-61912741", "0371-61912742"],
+    "address": "龙子湖校区07教学楼",
+    "email": "xgxy@zua.edu.cn",
+    "description": "信息管理与信息系统、计算机科学、大数据等信息类专业"
+  },
+  {
+    "name": "心理健康教育中心",
+    "department": "学生工作",
+    "category": "学生服务",
+    "phone": ["0371-61912656", "0371-61912658"],
+    "address": "龙子湖校区学生活动中心2楼",
+    "email": "xlzx@zua.edu.cn",
+    "description": "提供心理咨询、心理测评、心理健康教育、危机干预等服务"
+  },
+  {
+    "name": "学生资助管理中心",
+    "department": "学生工作",
+    "category": "学生服务",
+    "phone": ["0371-61912601", "0371-61912602"],
+    "address": "龙子湖校区学生活动中心3楼",
+    "email": "zzzx@zua.edu.cn",
+    "description": "负责国家助学贷款、奖助学金、勤工助学、困难补助等资助工作"
+  },
+  {
+    "name": "团委",
+    "department": "群众团体",
+    "category": "学生服务",
+    "phone": ["0371-61912566"],
+    "address": "龙子湖校区学生活动中心4楼",
+    "email": "tw@zua.edu.cn",
+    "description": "负责共青团工作、学生会指导、社团管理、校园文化活动等"
+  },
+  {
+    "name": "工会",
+    "department": "群众团体",
+    "category": "教职工服务",
+    "phone": ["0371-61912678", "0371-61912679"],
+    "address": "龙子湖校区教职工活动中心",
+    "email": "gh@zua.edu.cn",
+    "description": "维护教职工权益、组织文体活动、开展职工福利等"
+  },
+  {
+    "name": "校友总会办公室",
+    "department": "校友工作",
+    "category": "校友服务",
+    "phone": ["0371-61912696", "0371-61912697"],
+    "address": "龙子湖校区办公楼A座2楼",
+    "email": "xyzh@zua.edu.cn",
+    "description": "负责校友联络、校友活动、校友捐赠、校友会建设等工作"
+  },
+  {
+    "name": "招标与采购中心",
+    "department": "采购管理",
+    "category": "财务服务",
+    "phone": ["0371-61912866", "0371-61912868"],
+    "address": "龙子湖校区办公楼B座1楼",
+    "email": "zbb@zua.edu.cn",
+    "description": "负责学校物资采购、工程招标、服务采购等招投标工作"
+  },
+  {
+    "name": "档案馆",
+    "department": "档案管理",
+    "category": "行政办公",
+    "phone": ["0371-61912898", "0371-61912899"],
+    "address": "龙子湖校区图书馆楼负1楼",
+    "email": "dag@zua.edu.cn",
+    "description": "负责学校各类档案的收集、整理、保管、利用和校史研究"
+  }
+]
